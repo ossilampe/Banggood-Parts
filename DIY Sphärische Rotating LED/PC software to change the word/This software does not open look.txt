@@ -1,0 +1,1 @@
+If the software does not open, please install "dotnet"£¬Minute"dotnetfx"  64Bit systems and "dotnetfx" 32Bit systems£¬According to their own computer systems to install "dotnet"version£¡
