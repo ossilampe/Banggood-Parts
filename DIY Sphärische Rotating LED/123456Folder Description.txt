@@ -1,0 +1,4 @@
+Grade 1 2 3 4 5 6Folder are microcontroller source£¬Can be used directly£¬To facilitate the study and understanding of its principles and provide¡£Procedures are used "keiluvision3"Development Software Open
+"STC ISP"software download "HEX"file
+
+Do not understand the procedure can ignore these files by using the instructions to change the word¡£
